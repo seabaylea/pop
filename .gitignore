@@ -1,0 +1,7 @@
+.DS_Store
+/.build
+/.build-ubuntu
+/Packages
+/config.json
+/spec.json
+/tmp_iOS_SDK*

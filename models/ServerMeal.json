@@ -1,0 +1,23 @@
+{
+  "name": "ServerMeal",
+  "plural": "ServerMeals",
+  "classname": "ServerMeal",
+  "properties": {
+    "id": {
+      "type": "string",
+      "id": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "photo": {
+      "type": "string",
+      "required": true
+    },
+    "rating": {
+      "type": "number",
+      "required": true
+    }
+  }
+}
